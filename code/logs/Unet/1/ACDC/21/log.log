@@ -1,0 +1,150 @@
+2020-10-04 00:33:17,880:INFO:
+=======
+models:Unet,
+epoch:21,
+batch size:1
+dataset:ACDC
+========
+2020-10-04 00:36:04,085:INFO:
+=======
+models:Unet,
+epoch:21,
+batch size:1
+dataset:ACDC
+========
+2020-10-04 00:36:39,746:INFO:
+=======
+models:Unet,
+epoch:21,
+batch size:1
+dataset:ACDC
+========
+2020-10-04 00:36:42,072:INFO:Epoch 0/20
+2020-10-04 00:37:27,885:INFO:
+=======
+models:Unet,
+epoch:21,
+batch size:1
+dataset:ACDC
+========
+2020-10-04 00:37:30,336:INFO:Epoch 0/20
+2020-10-04 00:39:12,066:INFO:
+=======
+models:Unet,
+epoch:21,
+batch size:1
+dataset:ACDC
+========
+2020-10-04 00:39:14,560:INFO:Epoch 0/20
+2020-10-04 00:40:59,012:INFO:
+=======
+models:Unet,
+epoch:21,
+batch size:1
+dataset:ACDC
+========
+2020-10-04 00:41:01,552:INFO:Epoch 0/20
+2020-10-04 00:43:10,752:INFO:
+=======
+models:Unet,
+epoch:21,
+batch size:1
+dataset:ACDC
+========
+2020-10-04 00:44:25,071:INFO:
+=======
+models:Unet,
+epoch:21,
+batch size:1
+dataset:ACDC
+========
+2020-10-04 00:44:27,409:INFO:Epoch 0/20
+2020-10-04 00:48:05,638:INFO:
+=======
+models:Unet,
+epoch:21,
+batch size:1
+dataset:ACDC
+========
+2020-10-04 00:48:07,922:INFO:Epoch 0/20
+2020-10-04 00:49:14,437:INFO:
+=======
+models:Unet,
+epoch:21,
+batch size:1
+dataset:ACDC
+========
+2020-10-04 00:49:16,752:INFO:Epoch 0/20
+2020-10-04 00:49:33,196:INFO:
+=======
+models:Unet,
+epoch:21,
+batch size:1
+dataset:ACDC
+========
+2020-10-04 00:49:35,600:INFO:Epoch 0/20
+2020-10-04 00:49:53,487:INFO:
+=======
+models:Unet,
+epoch:21,
+batch size:1
+dataset:ACDC
+========
+2020-10-04 00:49:55,835:INFO:Epoch 0/20
+2020-10-04 00:51:20,076:INFO:
+=======
+models:Unet,
+epoch:21,
+batch size:1
+dataset:ACDC
+========
+2020-10-04 00:51:22,459:INFO:Epoch 0/20
+2020-10-04 00:51:43,871:INFO:
+=======
+models:Unet,
+epoch:21,
+batch size:1
+dataset:ACDC
+========
+2020-10-04 00:51:46,213:INFO:Epoch 0/20
+2020-10-04 00:54:58,280:INFO:
+=======
+models:Unet,
+epoch:21,
+batch size:1
+dataset:ACDC
+========
+2020-10-04 00:55:00,748:INFO:Epoch 0/20
+2020-10-04 00:55:38,254:INFO:
+=======
+models:Unet,
+epoch:21,
+batch size:1
+dataset:ACDC
+========
+2020-10-04 00:55:40,560:INFO:Epoch 0/20
+2020-10-04 00:55:41,876:INFO:1/536,train_loss:0.727
+2020-10-04 00:55:42,098:INFO:2/536,train_loss:0.773
+2020-10-04 00:55:42,309:INFO:3/536,train_loss:0.618
+2020-10-04 00:55:42,516:INFO:4/536,train_loss:0.605
+2020-10-04 00:55:42,721:INFO:5/536,train_loss:0.506
+2020-10-04 00:55:42,921:INFO:6/536,train_loss:0.515
+2020-10-04 00:55:43,125:INFO:7/536,train_loss:0.561
+2020-10-04 00:55:43,329:INFO:8/536,train_loss:0.543
+2020-10-04 00:55:43,531:INFO:9/536,train_loss:0.524
+2020-10-04 00:55:43,728:INFO:10/536,train_loss:0.568
+2020-10-04 00:55:43,925:INFO:11/536,train_loss:0.521
+2020-10-04 00:55:44,128:INFO:12/536,train_loss:0.552
+2020-10-04 00:55:44,330:INFO:13/536,train_loss:0.405
+2020-10-04 00:55:44,531:INFO:14/536,train_loss:0.430
+2020-10-04 00:55:44,730:INFO:15/536,train_loss:0.430
+2020-10-04 00:55:44,932:INFO:16/536,train_loss:0.415
+2020-10-04 00:55:45,137:INFO:17/536,train_loss:0.373
+2020-10-04 00:56:14,574:INFO:
+=======
+models:Unet,
+epoch:21,
+batch size:1
+dataset:ACDC
+========
+2020-10-04 00:56:16,870:INFO:Epoch 0/20

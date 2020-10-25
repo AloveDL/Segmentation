@@ -1,0 +1,4 @@
+Parameters:
+  LEARNING_RATE: 0.001
+  BATCH_SIZE: 1
+  EPOCH: 80

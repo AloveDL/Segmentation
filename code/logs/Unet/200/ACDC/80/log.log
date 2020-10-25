@@ -1,0 +1,8 @@
+2020-10-04 00:57:11,215:INFO:
+=======
+models:Unet,
+epoch:80,
+batch size:200
+dataset:ACDC
+========
+2020-10-04 00:57:13,590:INFO:Epoch 0/79
